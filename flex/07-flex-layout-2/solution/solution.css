@@ -71,7 +71,8 @@ a {
 .container {
   padding: 32px;
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: no-wrap;
+
 }
 
 .card {
